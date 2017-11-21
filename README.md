@@ -1,4 +1,4 @@
-#.NET Core Dependency Injection with Modules and Configuration File
+# .NET Core Dependency Injection with Modules and Configuration File
 
 https://blog.econduct.de/net-core-dependency-injection-with-configuration-file 
 
