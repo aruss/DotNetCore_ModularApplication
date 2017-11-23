@@ -1,6 +1,6 @@
 # .NET Core Dependency Injection with Modules and Configuration File
 
-https://blog.econduct.de/net-core-dependency-injection-with-configuration-file 
+https://blog.econduct.de/dotnet-core-dependency-injection-with-configuration-file/
 
 [.NET Core 2.0](https://www.microsoft.com/net/learn/get-started/windows) has a build in dependency injection and it works well, but if you want to do it via configuration you have to hack around. So, my idea was to introduce a concept of modules that can be managed via configuration logic.
 
